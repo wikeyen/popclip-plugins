@@ -1,10 +1,10 @@
 // #popclip
-// name: OpenAI Text Polisher
+// name: OpenAI Polisher
 // icon: iconify:mage:book-text-fill
 // identifier: com.galiget.popclip.extension.chatgpt.polisher
 // description: Send the selected text to OpenAI's Chat API and polish the writing style.
 // app: { name: Chat API, link: 'https://platform.openai.com/docs/api-reference/chat' }
-// popclipVersion: 1
+// popclipVersion: 4586
 // keywords: openai chatgpt
 // entitlements: [network]
 
